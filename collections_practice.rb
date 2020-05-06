@@ -22,8 +22,8 @@ def reverse_array(array)
 def kesha.marker(array)
   array.each do |word|
     word[2] = "$"
+  end
 end
-
 def find_a(array)
   array.find_all do |i|
     i[0] == "a"
