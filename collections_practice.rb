@@ -24,6 +24,7 @@ def kesha.marker(array)
     word[2] = "$"
   end
 end
+
 def find_a(array)
   array.find_all do |i|
     i[0] == "a"
