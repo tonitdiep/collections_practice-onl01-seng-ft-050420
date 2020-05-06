@@ -7,7 +7,7 @@ def sort_array_desc(num)
 end
 
 def sort_array_char_count(pets)
-  pets.sort_by()
+  pets.sort_by(&:length)
 end
 
 def swap_elements(array)
