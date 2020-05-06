@@ -21,10 +21,11 @@ def reverse_array(array)
 # def kesha.marker
 # end
 
-# def find_a(array)
-#   array.find_all do |i|
-    i[0] == a
-# end
+def find_a(array)
+  array.find_all do |i|
+    i[0] == "a"
+  end
+end
 
 # def sum_array(array)
 #   # array.inject
