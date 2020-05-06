@@ -22,7 +22,7 @@ def reverse_array(array)
 # end
 
 # def find_a(array)
-#   # array.find_a?
+#   array.find_all do |i|
 # end
 
 # def sum_array(array)
