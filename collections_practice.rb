@@ -29,16 +29,7 @@ end
 
 def sum_array(array)
   # array.inject {|sum,x| sum + x}
-  # array.inject(:+)
-  total = 0
-
-  i = 0
-  while i < array.count
-    total += array[i]
-
-    i += 1
-  end
-
+  array.inject(:+)
 end
 
 
