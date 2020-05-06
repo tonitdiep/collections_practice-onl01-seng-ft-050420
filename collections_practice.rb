@@ -19,8 +19,8 @@ def reverse_array(array)
  array.reverse
  end
 
-# def kesha.marker
-# end
+def kesha.marker
+end
 
 def find_a(array)
   array.find_all do |i|
