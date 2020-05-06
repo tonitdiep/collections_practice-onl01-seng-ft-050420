@@ -17,3 +17,15 @@ end
 def reverse_array(array)
   array.reverse
 end
+
+def kesha.marker
+end
+
+def find_a
+end
+
+def sum_array
+end
+
+def add_s
+end
