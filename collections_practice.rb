@@ -21,7 +21,8 @@ end
 def kesha.marker
 end
 
-def find_a
+def find_a(array)
+  array.find_a?
 end
 
 def sum_array(array)
