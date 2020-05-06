@@ -22,11 +22,11 @@ def kesha.marker
 end
 
 def find_a(array)
-  array.find_a?
+  # array.find_a?
 end
 
 def sum_array(array)
-  array.inject
+  # array.inject
 end
 
 # def add_s(array)
