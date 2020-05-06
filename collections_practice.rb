@@ -18,19 +18,19 @@ def reverse_array(array)
  array.reverse
  end
 
-def kesha.marker
-end
-
-def find_a(array)
-  # array.find_a?
-end
-
-def sum_array(array)
-  # array.inject
-end
-
-# def add_s(array)
-#   new_array = []
-#   array.each do |word|
-#     new_array << word + "s"
+# def kesha.marker
 # end
+
+# def find_a(array)
+#   # array.find_a?
+# end
+
+# def sum_array(array)
+#   # array.inject
+# end
+
+# # def add_s(array)
+# #   new_array = []
+# #   array.each do |word|
+# #     new_array << word + "s"
+# # end
