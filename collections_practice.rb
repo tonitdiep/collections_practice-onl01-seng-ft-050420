@@ -29,7 +29,7 @@ end
 
 def sum_array(array)
   array.inject {|sum,x| sum + x}
-  array.inject
+  array.inject(:+)
 end
 
 # # def add_s(array)
